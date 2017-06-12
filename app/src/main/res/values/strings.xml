@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TestKudan</string>
+    <string name="track_button_text_stop">Stop tracking</string>
+    <string name="track_button_text_start">Start tracking</string>
+    <string name="menu_open">Меню открыто</string>
+    <string name="menu_close">Меню закрыто</string>
+
+    <string name="model_name_house">House</string>
+    <string name="model_name_bigben">Bigben</string>
+    <string name="model_name_box">Box</string>
 </resources>
